@@ -1,4 +1,4 @@
-# Alert Cherry-Picker
+# Priority Alert Picker
 
 An algorithm written in Python 3.10 to pick the top 4 priority alerts based on keys and identifiers using a given template
 
